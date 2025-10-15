@@ -12,3 +12,4 @@ data_test
 phpunit.phar
 tests
 .github
+.env
